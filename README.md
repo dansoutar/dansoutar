@@ -1,12 +1,12 @@
 # 👋 Hey there, I'm Dan!
 
-🔭 I'm a frontend developer specializing in React and TypeScript, currently working remotely. I've built web solutions for various businesses and am particularly enthusiastic about creating software that truly meets user needs.
+🔭 I'm a frontend developer specializing in React and TypeScript, currently working remotely. I've worked professionally for 3 years, built web solutions for various businesses and am particularly enthusiastic about creating software that truly meets user needs.
 
 💻 My tech stack includes HTML, CSS, Sass, Git, Cypress, Jest, Node/Express, Javascript, React, TypeScript, GraphQL, and I'm always eager to learn more.
 
-🌱 I'm passionate about continuous improvement, both personally and in the code I write. You'll always find me upskilling and pushing the boundaries of what I know.
+🌱 I'm passionate about continuous improvement, both personally and in the code I write. You'll always find me upskilling and pushing the boundaries of what I can achieve.
 
-🎸 In my downtime, you might find me experimenting with music production, strumming my guitar, or indulging in a bit of 'Curb Your Enthusiasm'. 
+🎸 In my downtime, you might find me experimenting with music production, playing guitar, or watching some Curb Your Enthusiasm. 
 
 ## 🛠️ Technologies & Tools
 
