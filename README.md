@@ -29,6 +29,6 @@
 
 ## 📈 GitHub Stats
 
-[![Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dansoutar)](https://github.com/dansoutar/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dansoutar)](https://github.com/dansoutar/github-readme-stats)
 
 <!-- 👇 Feel free to check out some of my projects below. -->
