@@ -1,4 +1,4 @@
-[![Braydon's GitHub Banner](https://github.com/dansoutar/dansoutar/blob/main/github-readme-banner.png?raw=true)](https://github.com/dansoutar)
+[![Dan's GitHub Banner](https://github.com/dansoutar/dansoutar/blob/c3156f754cc8bca82895ba73a8f5805b6e2a9758/github-readme-banner%20(1).png)](https://github.com/dansoutar)
 
 # 👋 Hey there, I'm Dan!
 [![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:braydoncoyer.dev)
