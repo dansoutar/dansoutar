@@ -1,4 +1,8 @@
+[![Braydon's GitHub Banner](https://github.com/dansoutar/dansoutar/blob/main/github-readme-banner.png?raw=true)](https://github.com/dansoutar)
+
 # 👋 Hey there, I'm Dan!
+[![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:braydoncoyer.dev)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/braydon-coyer/)
 
 🔭 I'm a frontend developer specializing in React and TypeScript, currently working remotely. I've worked professionally for 3 years, built web solutions for various businesses and am particularly enthusiastic about creating software that truly meets user needs.
 
